@@ -1,1 +1,1 @@
-# google-homepage
+Google Homepage project on theodinproject.com
